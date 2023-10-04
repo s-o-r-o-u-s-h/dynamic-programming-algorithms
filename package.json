@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-programming-algorithms",
+  "version": "0.0.1",
+  "description": "A set of problems that are solved via dynamic programming written in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dp",
+    "dynamic-programming",
+    "javascript",
+    "node",
+    "algorithms"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-o-r-o-u-s-h/dynamic-programming-algorithms.git"
+  },
+  "author": "Soroush Gholam Zadeh",
+  "license": "MIT"
+}
